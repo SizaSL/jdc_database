@@ -1,2 +1,2 @@
 # jdc_database
-JDC database course
+JDC Database Course
