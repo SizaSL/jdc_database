@@ -1,5 +1,5 @@
 # jdc_database
-JDC Database Course
+JDC Database Course dev environment
 
 ## Login
 Password: admin
